@@ -2,7 +2,7 @@
 
 MusicBox is an interactive visual application that allows users to listen to multiple songs while exploring detailed information about each track in real time.
 
-#Features
+# Features
 Play, pause, skip to next/previous songs
 Displays song metadata:
 - Key signature
@@ -38,3 +38,4 @@ Additional assets – Audio files and visual components
 # Notes
 Make sure all files (especially the .csv and audio files) remain in their original locations relative to the sketch
 Processing must have permission to access audio files on your system
+To have a look at this project more in detail, head over to my portfolio, where I talk about the development of this project: https://sites.google.com/view/damian-nowakowski/projects/music-box
